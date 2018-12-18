@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\ileri algorithma\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\hp\Desktop\ileri algorithma\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\hp\Desktop\ileri algorithma\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\hp\Desktop\ileri algorithma\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ileri algorithma\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ileri algorithma\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\hp\Desktop\ileri algorithma\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\hp\Desktop\DFS_Labr\Homework\bin\Debug\Homework.exe.config
+C:\Users\hp\Desktop\DFS_Labr\Homework\bin\Debug\Homework.exe
+C:\Users\hp\Desktop\DFS_Labr\Homework\bin\Debug\Homework.pdb
+C:\Users\hp\Desktop\DFS_Labr\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DFS_Labr\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DFS_Labr\Homework\obj\Debug\Homework.exe
+C:\Users\hp\Desktop\DFS_Labr\Homework\obj\Debug\Homework.pdb
